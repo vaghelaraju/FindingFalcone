@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Finding Falcone!</string>
+    <string name="select_planet_you_want_to_search_in">Select planet you want to search in:</string>
+    <string name="destination_1">Destination 1</string>
+    <string name="destination_2">Destination 2</string>
+    <string name="distance">Distance:  %s</string>
+    <string name="select_vehicle">Select vehicle</string>
+    <string name="speed">Speed:  %s</string>
+    <string name="name">Name</string>
+    <string name="cont">Count</string>
+    <string name="vehicle_not_available">Oops.!!  %s is not available, Please select another vehicle.</string>
+    <string name="to_select_this_planet_please_reset_filter">You can select exactly 4 planets, Please reset first to select %s</string>
+    <string name="find_falcone">Find falcone!</string>
+    <string name="time_taken">Time taken: </string>
+    <string name="footer">Coding problem - finding-falcone</string>
+    <string name="reset">Reset</string>
+    <string name="alert">Alert!</string>
+    <string name="status">Status</string>
+    <string name="msg_success">Congratulations!!! Queen Al Falcone found on  %s </string>
+    <string name="msg_failure">Oops.!! Unable to find Queen Al Falcone.</string>
+    <string name="please_select_proper_vehical">Please assign appropriate vehicle to planet.</string>
+    <string name="please_select_exactly_4_planet">Please select exactly 4 planets to find falcone</string>
+</resources>
