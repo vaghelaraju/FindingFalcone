@@ -30,7 +30,7 @@ years….
 - Wait till gradle build finishes.
 
 ## Github path
-[Download](https://github.com/vaghelaraju/FindingFalcone-)
+[Download](https://github.com/vaghelaraju/FindingFalcone)
 
 ## APK path
 [Download apk](https://github.com/vaghelaraju/FindingFalcone-/blob/main/Feproblem1.apk)
